@@ -1,5 +1,7 @@
 # FTB Infinity
 
+This fork contains modifications to allow for the backup file location to specified through an env var.
+
 For instructions on how to use this docker image, see [dlord/minecraft][].
 
 ## Pull Request Guidelines
